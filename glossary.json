@@ -1,0 +1,25 @@
+{
+  "_comment": "Glossary of IT terms that must never be translated. Add new terms here as needed.",
+  "terms": [
+    "VPN",
+    "Azure",
+    "Outlook",
+    "Server",
+    "Database",
+    "Active Directory",
+    "Ticket ID",
+    "Microsoft Teams",
+    "SharePoint",
+    "OneDrive",
+    "Windows",
+    "Linux",
+    "API",
+    "SSL",
+    "DNS",
+    "IP Address",
+    "Firewall",
+    "Helpdesk",
+    "JIRA",
+    "SAP"
+  ]
+}
