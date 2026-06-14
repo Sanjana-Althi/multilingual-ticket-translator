@@ -35,8 +35,8 @@
 ## 🔗 Quick Links
 
 - **🎥 Demo Video:** `[PASTE YOUR DEMO VIDEO LINK HERE]`
-- **🚀 Live Application:** `[PASTE YOUR LIVE DEPLOYMENT LINK HERE]`
-- **📁 GitHub Repository:** `https://github.com/Sanjana-Althi/multilingual-ticket-translator`
+- **🚀 Live Application:** `[https://multilingual-ticket-translator-infinite-campuss.streamlit.app/]`
+- **📁 GitHub Repository:** (https://github.com/Sanjana-Althi/multilingual-ticket-translator)
 
 
 ---
