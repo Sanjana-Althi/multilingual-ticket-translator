@@ -36,7 +36,7 @@
 
 - **🎥 Demo Video:** `[PASTE YOUR DEMO VIDEO LINK HERE]`
 - **🚀 Live Application:** `[PASTE YOUR LIVE DEPLOYMENT LINK HERE]`
-- **📁 GitHub Repository:** `[PASTE YOUR GITHUB REPO LINK HERE]`
+- **📁 GitHub Repository:** `https://github.com/Sanjana-Althi/multilingual-ticket-translator`
 
 
 ---
