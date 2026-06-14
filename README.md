@@ -34,9 +34,12 @@
 
 ## 🔗 Quick Links
 
-- **🎥 Demo Video:** (https://drive.google.com/file/d/1QWFOqViCyUjDPSSB0oL09OEimI2LzrYt/view?usp=drivesdk)
-- **🚀 Live Application:** (https://multilingual-ticket-translator-infinite-campuss.streamlit.app/)
-- **📁 GitHub Repository:** (https://github.com/Sanjana-Althi/multilingual-ticket-translator)
+- **🎥 Demo Video:**
+    (https://drive.google.com/file/d/1QWFOqViCyUjDPSSB0oL09OEimI2LzrYt/view?usp=drivesdk)
+- **🚀 Live Application:**
+    (https://multilingual-ticket-translator-infinite-campuss.streamlit.app/)
+- **📁 GitHub Repository:**
+     (https://github.com/Sanjana-Althi/multilingual-ticket-translator)
 
 
 ---
