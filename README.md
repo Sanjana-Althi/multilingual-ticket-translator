@@ -23,9 +23,9 @@
 
 | Name | Roll Number | Branch |
 |---|---|---|
-| Mangi Nitya Sai Vardhani | 23U41A4427 | CSE |
 | Althi Sanjana | 23U41A0504 | CSE |
 | Kandregula Divya Vani | 23U41A0520 | CSE |
+| Mangi Nitya Sai Vardhani | 23U41A4427 | CSD |
 | Kanapaka Dilleswara Rao | 23U41A0430 | ECE |
 
 > 📄 Resume files are available in the `resumes/` folder.
