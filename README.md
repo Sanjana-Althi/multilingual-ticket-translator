@@ -223,7 +223,20 @@ Step 2  →  Processes each ticket through the full pipeline
 Step 3  →  Prompts engineer for reply per ticket (Enter for default)
 Step 4  →  Saves all records to output/tickets.csv
 ```
+🤖 AI Enhancement (OpenRouter Integration)
 
+The system includes an AI-powered preprocessing layer for support tickets using OpenRouter API.
+
+- API Provider: OpenRouter
+- Model Used: nex-agi/nex-n2-pro:free
+- Purpose: Enhances incoming support tickets before translation by improving clarity and structure.
+- Functionality:
+- Improves raw ticket text without changing meaning
+- Generates short summary
+- Classifies category (Network, VPN, Hardware, etc.)
+- Assigns priority (Low / Medium / High)
+- Role in Pipeline: Acts as a pre-processing AI layer before language detection and translation stages
+  
 ### 🛡️ How Glossary Protection Works
 
 ```
