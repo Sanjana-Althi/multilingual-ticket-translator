@@ -35,7 +35,7 @@ class TicketAgent:
 
     # ── Configuration ──────────────────────────────────────────────────────────
     API_ENDPOINT   = "https://openrouter.ai/api/v1/chat/completions"
-    MODEL          =  "nex-agi/nex-n2-pro:free"
+     MODEL = "openrouter/free"
     REQUEST_TIMEOUT = 20          # seconds before giving up on the API call
 
     VALID_PRIORITIES = {"Low", "Medium", "High"}
@@ -155,9 +155,14 @@ class TicketAgent:
         )
 
         # Surface HTTP errors clearly (e.g. 401 Unauthorized, 429 Rate Limited)
-        response.raise_for_status()
+         if response.status_code != 200:
+          print(response.status_code)
+          print(response.text)
+          response.raise_for_status()
 
         data = response.json()
+
+       
 
         # Extract text from the standard OpenAI-compatible response structure
         return data["choices"][0]["message"]["content"]
